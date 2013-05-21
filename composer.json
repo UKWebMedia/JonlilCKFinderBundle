@@ -1,5 +1,5 @@
 {
-    "name": "jonlil/ckfinder-bundle",
+    "name": "ukwm/ckfinder-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "description": "A Bundle for CKFinder",
