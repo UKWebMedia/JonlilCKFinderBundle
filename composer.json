@@ -1,7 +1,8 @@
 {
     "name": "jonlil/ckfinder-bundle",
     "type": "symfony-bundle",
-    "description": "",
+    "license": "MIT",
+    "description": "A Bundle for CKFinder",
     "keywords": ["CKFinder", "CKEditor"],
     "authors": [
         {
